@@ -1,0 +1,31 @@
+.bluebox{
+    height: 600px;
+    width: 400px;
+    background-color: blue;
+
+}
+.redbox{
+     height: 300px;
+    width: 200px;
+    background-color: red;
+}
+.yellowbox{
+     height: 100px;
+    width: 200px;
+    background-color: yellow;
+    }
+.purplebox{
+     height: 650px;
+    width: 650px;
+    background-color: purple;
+}
+.orangebox{
+     height: 300px;
+    width: 300px;
+    background-color: orange;
+}
+.greenbox{
+     height: 150px;
+    width: 250px;
+    background-color: green;
+}
